@@ -1,0 +1,6 @@
+env
+.env
+.vscode
+media
+cnn_model11.h5
+digit_model.h5
