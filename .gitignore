@@ -1,6 +1,9 @@
 env
 .env
-.vscode
 media
 cnn_model11.h5
 digit_model.h5
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
